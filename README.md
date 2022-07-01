@@ -1,2 +1,2 @@
 # First
-This simple programm does nothing
+This simple program does nothing
